@@ -29,7 +29,8 @@ print("hi")
 
 `@sample_code`
 ```{r}
-
+#say hi by clicking submit answer
+print("hi")
 ```
 
 `@solution`
