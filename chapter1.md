@@ -3,19 +3,6 @@ title: 'video pideo fideo'
 description: 'just testing again if the video exercise works, what can I do? I wont go over the audio until this is solved. What am I missing? I am not doing anything funny.'
 ---
 
-## txingalatxinga
-
-```yaml
-type: VideoExercise
-key: 1bb94dc68b
-xp: 50
-```
-
-`@projector_key`
-3a792251ae9e60b0ce1a8af643201c83
-
----
-
 ## Example coding exercise
 
 ```yaml
@@ -58,13 +45,13 @@ print("hi")
 
 ---
 
-## King of the tiredness
+## Insert exercise title here
 
 ```yaml
 type: VideoExercise
-key: 49149e36af
+key: e58495712e
 xp: 50
 ```
 
 `@projector_key`
-3f034728fb9cddf8a2224470236eabe4
+623aee2ace60ad1f90cffdc51ac58e63
