@@ -58,7 +58,7 @@ xp: 50
 
 ---
 
-## Insert exercise title here
+## another failed video
 
 ```yaml
 type: VideoExercise
