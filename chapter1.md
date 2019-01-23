@@ -45,7 +45,7 @@ print("hi")
 
 ---
 
-## Insert exercise title here
+## Kantakamaradakanta!
 
 ```yaml
 type: VideoExercise
