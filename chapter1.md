@@ -13,17 +13,18 @@ xp: 100
 skills: 1
 ```
 
-This is an example exercise.
+This is an example exercise, the whole point is to make the video work.
 
 `@instructions`
-
+This is an example exercise, the whole point is to make the video work.
 
 `@hint`
-
+solo te pido que no te r..... y con eso te valio
 
 `@pre_exercise_code`
 ```{r}
-
+#say hi by clicking submit answer
+print("hi")
 ```
 
 `@sample_code`
@@ -33,7 +34,7 @@ This is an example exercise.
 
 `@solution`
 ```{r}
-
+print("hi")
 ```
 
 `@sct`
