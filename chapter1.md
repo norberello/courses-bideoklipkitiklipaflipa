@@ -1,6 +1,19 @@
 ---
-title: 'Chapter Title Here'
-description: 'Chapter description goes here.'
+title: 'video pideo fideo'
+description: 'just testing again if the video exercise works, what can I do? I wont go over the audio until this is solved.'
+---
+
+## txingalatxinga
+
+```yaml
+type: VideoExercise
+key: 1bb94dc68b
+xp: 50
+```
+
+`@projector_key`
+3a792251ae9e60b0ce1a8af643201c83
+
 ---
 
 ## Example coding exercise
@@ -42,16 +55,3 @@ print("hi")
 ```{r}
 
 ```
-
----
-
-## txingalatxinga
-
-```yaml
-type: VideoExercise
-key: 1bb94dc68b
-xp: 50
-```
-
-`@projector_key`
-3a792251ae9e60b0ce1a8af643201c83
