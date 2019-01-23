@@ -1,6 +1,6 @@
 ---
 title: 'video pideo fideo'
-description: 'just testing again if the video exercise works, what can I do? I wont go over the audio until this is solved.'
+description: 'just testing again if the video exercise works, what can I do? I wont go over the audio until this is solved. What am I missing? I am not doing anything funny.'
 ---
 
 ## txingalatxinga
