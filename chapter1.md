@@ -69,3 +69,16 @@ xp: 50
 
 `@projector_key`
 0d8823e1d7919546ede2af138a62d83f
+
+---
+
+## Ay, this is painful
+
+```yaml
+type: VideoExercise
+key: 71efd447d6
+xp: 50
+```
+
+`@projector_key`
+0cc7fc9166277cd9aa2ad8b46d6c23b4
