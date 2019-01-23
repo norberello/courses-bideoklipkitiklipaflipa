@@ -55,3 +55,16 @@ print("hi")
 ```{r}
 
 ```
+
+---
+
+## Insert exercise title here
+
+```yaml
+type: VideoExercise
+key: 49149e36af
+xp: 50
+```
+
+`@projector_key`
+3f034728fb9cddf8a2224470236eabe4
