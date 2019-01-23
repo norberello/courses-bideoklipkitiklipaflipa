@@ -58,7 +58,7 @@ print("hi")
 
 ---
 
-## Insert exercise title here
+## King of the tiredness
 
 ```yaml
 type: VideoExercise
